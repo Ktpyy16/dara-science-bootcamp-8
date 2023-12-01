@@ -12,4 +12,5 @@ I learn a lot of stuff related to data science skills
 - Data Visualization
 - Essential Statistics for Data analyst
 - Essential Machine learning for Data analyst
-- 
+ 
+You can find me on Linkedin: https://www.linkedin.com/in/supasin-vijittrakarnrung-689012123/
